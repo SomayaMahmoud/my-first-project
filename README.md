@@ -1,4 +1,4 @@
-# my-first-project
+# dirty cafe sales
 
 Project Overview
 This project demonstrates a comprehensive data cleaning pipeline using Python and Pandas. The goal is to transform a "dirty" dataset containing cafe transaction records into a clean, analysis-ready format. The notebook addresses common data quality issues including missing values, incorrect formatting, and logical inconsistencies in financial records.
